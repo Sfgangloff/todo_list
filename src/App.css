@@ -1,0 +1,56 @@
+.short-term-task {
+  text-align:left;
+}
+
+.short-term {
+  width:90%;
+}
+
+.next-week {
+  width:90%;
+}
+
+.next-week-day {
+  width:14.3%;
+  vertical-align:top;
+}
+
+.todo-date {
+  padding-left:0.5rem;
+  padding-right:0.5rem;
+  font-size:0.90rem;
+}
+
+.today {
+  width:14.2%;
+}
+
+.long-term {
+  text-align:left;
+  width:90%;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th,td {
+border:1px solid black;
+}
+
+th {
+  background-color:#a9a9a9;
+}
+
+.form-button {
+  width:50px;
+  height:50px;
+}
+
+.form-button:hover {
+  cursor:pointer;
+}
+
+.todo:hover{
+  cursor:pointer;
+}
